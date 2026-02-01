@@ -1,0 +1,19 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Node / NUI
+node_modules/
+*.log
+
+# Build / temp
+dist/
+build/
+.cache/
+.tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.iml
